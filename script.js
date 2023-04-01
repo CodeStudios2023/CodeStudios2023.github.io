@@ -887,6 +887,3 @@ window.addEventListener('message', function(event) {
     document.getElementById("time").innerHTML = currentTime;
     document.getElementById("date").innerHTML = currentDate;
   }, 1000);
-  
-  
-  
