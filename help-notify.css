@@ -1,9 +1,8 @@
 
 
-
 .help-notify {
   position: absolute;
-  right:40%;
+  right:42%;
   top:74%;
   }
   
@@ -75,7 +74,6 @@
     filter:var(--HelpUI-InnerCircle-Small-Shadow);
     text-shadow:0vh 0vh 0.8vh rgba(255, 255, 255, 0.685)
   }
-  
   
   .help-text {
     position: absolute;
