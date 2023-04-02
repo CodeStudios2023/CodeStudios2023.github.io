@@ -70,7 +70,7 @@
     font-size:1.6vh;
     color:white;
     font-weight:bold;
-    background:var(--HelpUI-InnerCircle-Small);
+    background:black;
     filter:var(--HelpUI-InnerCircle-Small-Shadow);
     text-shadow:0vh 0vh 0.8vh rgba(255, 255, 255, 0.685)
   }
