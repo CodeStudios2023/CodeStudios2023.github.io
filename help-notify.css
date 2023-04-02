@@ -90,7 +90,7 @@
     animation: fade 4s linear infinite;
     text-shadow:0vh 0vh 0.8vh rgba(255, 255, 255, 0.685)
   }
-    
+  
   .help-notify-background {
     position: absolute;
     width:50vh;
